@@ -1,0 +1,37 @@
+_repo: With-Roberts-to-Pretoria-A-Tale-of-The-South-African-War_56143
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rainey, W. (William)
+    aliases:
+    - Rainey, William
+    - Rainey, H. W. (H. William)
+    - Rainey, W.
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '9704'
+    url: http://www.gutenberg.org/2009/agents/9704
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2017-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56143'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'With Roberts to Pretoria
+
+  A Tale of The South African War'
+url: http://www.gutenberg.org/ebooks/56143
